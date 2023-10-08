@@ -1,7 +1,8 @@
 import dotenv from 'dotenv';
 
+dotenv.config();
+
 async function bootstrap() {
-  dotenv.config();
   // Input Code Here
 }
 bootstrap();
